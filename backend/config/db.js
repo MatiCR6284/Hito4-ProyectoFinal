@@ -37,7 +37,7 @@ export const pool = new Pool({
 });
 
 
-export default pool;
+export const q = pool.query.bind(pool);
 
 pool.connect()
   .then(() => console.log('✅ Conectado a PostgreSQL'))
