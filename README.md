@@ -8,6 +8,7 @@ This project was developed as a group project with:
 
 - [ralunsebastian](https://github.com/ralunsebastian)
 - [MatiCR6284](https://github.com/MatiCR6284)
+- [Micolia](https://github.com/Micolia)
 
 
 
